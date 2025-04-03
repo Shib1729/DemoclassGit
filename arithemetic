@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "Enter A"
+read a
+echo "Enter B"
+read b
+echo sum=$((a+b))
+echo sum
+
